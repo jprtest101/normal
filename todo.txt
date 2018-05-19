@@ -10,6 +10,7 @@ x git usage test
 - git merge - first commit all and push
     git checkout master
     git merge feature1
+    git push
     git branch -d feature1
     git push origin :feature1
 
