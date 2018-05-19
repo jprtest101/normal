@@ -2,8 +2,10 @@
 todo 19.5.2018:
 ================
 
-- store into github (new test account)
-- git usage test
+x store into github (new test account)
+x git usage test
+- git branch (commandline) 
+- git merge
 
 - check out what is typical stack for java today
 - implement simple full stack hello world
@@ -22,4 +24,5 @@ todo 19.5.2018:
 - Angular test
 - React test
 - Vue.js test
+
 
