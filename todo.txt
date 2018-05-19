@@ -1,0 +1,25 @@
+
+todo 19.5.2018:
+================
+
+- store into github (new test account)
+- git usage test
+
+- check out what is typical stack for java today
+- implement simple full stack hello world
+- use maven/gradle
+
+- mysql
+- mongodb
+- redis
+- rest api
+- web sockets test
+
+- aws deployment
+- heroku test
+
+
+- Angular test
+- React test
+- Vue.js test
+
