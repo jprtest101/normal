@@ -6,8 +6,13 @@ x store into github (new test account)
 x git usage test
 - git branch (commandline):  
     git checkout -b feature1
-    git push --set-upstream origin feature1
-- git merge
+    git push origin feature1
+- git merge - first commit all and push
+    git checkout master
+    git merge feature1
+    git branch -d feature1
+    git push origin :feature1
+
 
 - check out what is typical stack for java today
 - implement simple full stack hello world
